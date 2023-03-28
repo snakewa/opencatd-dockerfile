@@ -1,4 +1,4 @@
-# 一鍵Deploy OpenCat for Team到Railway.app
+# 一鍵Deploy [OpenCat](https://opencat.app/) for Team到Railway.app
 ### Railway.app 是一個比較方便的雲端平台，可以用來部署 opencat for team (opencatd) 應用程序到 Railway 上，具體步驟如下：
 
 1. Clone這個repo 到你自己的github的帳號下
