@@ -5,7 +5,7 @@
 ## 方法一: 一鍵Deploy 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/-egb9z)
 1. 點一下上面的一鍵Deploy 
-2. 輸入自己的repo名，公開和私人的都可以，使用自己的repo, repo更新會触发更新，如果opencatd有更新的話可以更新一下repo
+2. 輸入自己的repo名，公開和私人的都可以，使用自己的repo, repo更新會觸發更新，如果opencatd有更新的話可以更新一下repo
 3. Deploy完成之後，點一下 "Add a Domain" 可以取得一個域名
 
 ## 方法二: 手動的具體步驟如下：
