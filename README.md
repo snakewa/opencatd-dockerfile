@@ -10,3 +10,5 @@
 8. 部署成功後，你的應用程序就可以從 Railways 的域名上訪問了。
 
 如果您在任何時候遇到困難或問題，您可以在 Railway 上的控制台中查看詳細的日誌和錯誤信息。
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/-egb9z)
