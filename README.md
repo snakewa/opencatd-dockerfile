@@ -2,6 +2,8 @@
 
 # 一鍵Deploy [OpenCat](https://opencat.app/) for Team到Railway.app
 ### Railway.app 是一個比較方便的雲端平台，可以用來部署 opencat for team (opencatd) 應用程序到 Railway 上
+⚠️ ⚠️ ⚠️ ⚠️ 现在有一個月500小時的限制了，一个月只能跑24天⚠️ ⚠️ ⚠️ ⚠️ ⚠️ 
+
 ## 方法一: 一鍵Deploy 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/-egb9z)
 1. 點一下上面的一鍵Deploy 
